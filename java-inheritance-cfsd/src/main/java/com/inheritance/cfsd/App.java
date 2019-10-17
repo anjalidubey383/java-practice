@@ -1,4 +1,4 @@
-package org.java.inheritance.cfsd;
+package com.inheritance.cfsd;
 
 /**
  * Hello world!
